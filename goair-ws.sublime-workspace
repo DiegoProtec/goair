@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "goair/teste.go",
-			"settings":
-			{
-				"buffer_size": 38,
-				"line_ending": "Windows",
-				"name": "teste"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -114,6 +105,7 @@
 	],
 	"file_history":
 	[
+		"/C/Projetos/goair/teste.go",
 		"/C/Users/windows/AppData/Roaming/Sublime Text 3/Packages/User/teste.html",
 		"/C/Users/windows/AppData/Roaming/Sublime Text 3/Packages/Highlight/SublimeHighlight.sublime-settings",
 		"/C/Users/windows/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
@@ -152,38 +144,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "goair/teste.go",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 38,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								38
-							]
-						],
-						"settings":
-						{
-							"auto_name": "teste",
-							"syntax": "Packages/Go/Go.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
