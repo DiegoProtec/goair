@@ -8,11 +8,12 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<title></title>\n</head>\n<body>\n\n</body>\n</html>",
+			"file": "goair/teste.go",
 			"settings":
 			{
-				"buffer_size": 78,
-				"line_ending": "Windows"
+				"buffer_size": 38,
+				"line_ending": "Windows",
+				"name": "teste"
 			}
 		}
 	],
@@ -24,9 +25,13 @@
 	"command_palette":
 	{
 		"height": 104.0,
-		"last_filter": "install",
+		"last_filter": "side",
 		"selected_items":
 		[
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -152,10 +157,11 @@
 			[
 				{
 					"buffer": 0,
+					"file": "goair/teste.go",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 78,
+						"buffer_size": 38,
 						"regions":
 						{
 						},
@@ -168,7 +174,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"auto_name": "teste",
+							"syntax": "Packages/Go/Go.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
